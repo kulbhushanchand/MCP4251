@@ -1,0 +1,19 @@
+{
+  "name": "MCP4251",
+  "keywords": "MCP4251, digital potentiometer, digital pot",
+  "description": "MCP4251 digital potentiometer can be controlled over SPI interface to have resistance range as per the model number. The number of steps can be 128 or 256 depends upon the model number.",
+  "url": "https://kulbhushanchand.github.io/MCP4251/",
+  "include": "MCP4251",
+  "authors":
+  [
+    {
+      "name": "Kulbhushan Chand"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/kulbhushanchand/MCP4251"
+  },
+  "frameworks": "arduino"
+}

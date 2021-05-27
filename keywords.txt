@@ -1,0 +1,57 @@
+###################################
+# Syntax Coloring Map For MCP4251
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+MCP4251 KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+begin   KEYWORD2
+DigitalPotWiperIncrement    KEYWORD2
+DigitalPotWiperDecrement    KEYWORD2
+DigitalPotSetWiperPosition  KEYWORD2
+DigitalPotSetWiperMin   KEYWORD2
+DigitalPotSetWiperMax   KEYWORD2
+DigitalPotSetWiperMid   KEYWORD2
+DigitalPotReadWiperPosition KEYWORD2
+DigitalPotReadTconRegister  KEYWORD2
+DigitalPotReadStatusRegister    KEYWORD2
+DigitalPotWriteTconRegister KEYWORD2
+DigitalPotStartup   KEYWORD2
+DigitalPotShutdown  KEYWORD2
+DigitalPotTerminalBConnect  KEYWORD2
+DigitalPotTerminalBDisconnect   KEYWORD2
+DigitalPotTerminalAConnect  KEYWORD2
+DigitalPotTerminalADisconnect   KEYWORD2
+DigitalPotWiperConnect  KEYWORD2
+DigitalPotWiperDisconnect   KEYWORD2
+DigitalPotInitTcon  KEYWORD2
+DigitalPotResistanceToPosition  KEYWORD2
+DigitalPotPositionToResistance  KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+ADDRESS_WIPER_0 LITERAL1
+ADDRESS_WIPER_1 LITERAL1
+ADDRESS_TCON    LITERAL1
+ADDRESS_STATUS  LITERAL1
+COMMAND_WRITE   LITERAL1
+COMMAND_INCREMENT   LITERAL1
+COMMAND_DECREMENT   LITERAL1
+COMMAND_READ    LITERAL1
+DUMMY_DATA  LITERAL1
+BITMASK_READ_DATA_REGISTER  LITERAL1
+BITMASK_POT0_STARTUP    LITERAL1
+BITMASK_POT1_STARTUP    LITERAL1
+BITMASK_POT0_B_TERMINAL_CONNECT LITERAL1
+BITMASK_POT1_B_TERMINAL_CONNECT LITERAL1
+BITMASK_POT0_WIPER_TERMINAL_CONNECT LITERAL1
+BITMASK_POT1_WIPER_TERMINAL_CONNECT LITERAL1
+BITMASK_POT0_A_TERMINAL_CONNECT LITERAL1
+BITMASK_POT1_A_TERMINAL_CONNECT LITERAL1
