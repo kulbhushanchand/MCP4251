@@ -18,7 +18,7 @@
 
 ## Table of Contents
 
-- [About MC4251 library](#about)
+- [About](#about)
 - [Features](#features)
 - [Installation](#installation)
   - [First method](#first-method)
@@ -40,7 +40,7 @@ This library can be used for interfacing and controlling the MCP4251 IC with the
 
 ## Features
 
-- All available controls as per [MC4251 datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/22060b.pdf).
+- All available controls as per [MCP4251 datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/22060b.pdf).
 - Additional functions like `DigitalPotResistanceToPosition` and `DigitalPotPositionToResistance`.
 - Simple to use.
 - Multiple MCP4251 ICs can be interfaced and controlled, subjected to the availability of I/O pins on Arduino board.
