@@ -40,7 +40,7 @@ public:
   void begin();
   void DigitalPotWiperIncrement(bool potNum);
   void DigitalPotWiperDecrement(bool potNum);
-  void DigitalPotSetWiperPosition(bool potNum, uint16_t value); // Not working yet
+  void DigitalPotSetWiperPosition(bool potNum, uint16_t value); // Need confirmation if it is working
   void DigitalPotSetWiperMin(bool potNum);
   void DigitalPotSetWiperMax(bool potNum);
   void DigitalPotSetWiperMid(bool potNum);
