@@ -50,6 +50,8 @@ This library can be used for interfacing and controlling the MCP4251 IC with the
 
 ### First method
 
+![library-manager](docs/assets/images/library-manager.jpg)
+
 1. In the Arduino IDE, navigate to Sketch > Include Library > Manage Libraries
 2. Then the Library Manager will open and you will find a list of libraries that are already installed or ready for installation.
 3. Then search for MCP4251 using the search bar.
