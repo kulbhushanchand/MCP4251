@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kulbhushanchand/MCP4251">
-    <img src="docs/assets/images/logo.svg" alt="Logo" width="150" height="90">
+    <img src="docs/assets/images/logo.png" alt="Logo" width="150" height="75">
   </a>
   <h2 align="center">MCP4251</h2>
   <p align="center">
